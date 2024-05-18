@@ -1,24 +1,20 @@
-🎨 POWERSHELL PROFILE : PRETTY
-
-𝙿𝙾𝚆𝙴𝚁𝚂𝙷𝙴𝙻𝙻 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 : 𝙿𝚁𝙴𝚃𝚃𝚈
-
-ᴘᴏᴡᴇʀsʜᴇʟʟ ᴘʀᴏғɪʟᴇ : ᴘʀᴇᴛᴛʏ
+🎨 𝙿𝙾𝚆𝙴𝚁𝚂𝙷𝙴𝙻𝙻 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 : 𝙿𝚁𝙴𝚃𝚃𝚈
 
 🇦‌ 🇸‌🇹‌🇾‌🇱‌🇮‌🇸‌🇭‌ 🇦‌🇳‌🇩‌ 🇫‌🇺‌🇳‌🇨‌🇹‌🇮‌🇴‌🇳‌🇦‌🇱‌ 🇵‌🇴‌🇼‌🇪‌🇷‌🇸‌🇭‌🇪‌🇱‌🇱‌ 🇵‌🇷‌🇴‌🇫‌🇮‌🇱‌🇪‌ 🇹‌🇭‌🇦‌🇹‌ 🇱‌🇴‌🇴‌🇰‌🇸‌ 🇦‌🇳‌🇩‌ 🇫‌🇪‌🇪‌🇱‌🇸‌ 🇦‌🇱‌🇲‌🇴‌🇸‌🇹‌ 🇦‌🇸‌ 🇬‌🇴‌🇴‌🇩‌ 🇦‌🇸‌ 🇦‌ 🇱‌🇮‌🇳‌🇺‌🇽‌ 🇹‌🇪‌🇷‌🇲‌🇮‌🇳‌🇦‌🇱‌.
 
-## ⚡ One Line Install (Elevated PowerShell Recommended)
+⚡ 𝙾𝙽𝙴 𝙻𝙸𝙽𝙴 𝙸𝙽𝚂𝚃𝙰𝙻𝙻 : 𝙰𝙳𝙼𝙸𝙽 𝚁𝙴𝙲𝙾𝙼𝙼𝙴𝙽𝙳𝙴𝙳
 
-Execute the following command in an elevated PowerShell window to install the PowerShell profile:
+🇪‌🇽‌🇪‌🇨‌🇺‌🇹‌🇪‌ 🇹‌🇭‌🇪‌ 🇫‌🇴‌🇱‌🇱‌🇴‌🇼‌🇮‌🇳‌🇬‌ 🇨‌🇴‌🇲‌🇲‌🇦‌🇳‌🇩‌ 🇮‌🇳‌ 🇦‌🇳‌ 🇪‌🇱‌🇪‌🇻‌🇦‌🇹‌🇪‌🇩‌ 🇵‌🇴‌🇼‌🇪‌🇷‌🇸‌🇭‌🇪‌🇱‌🇱‌ 🇼‌🇮‌🇳‌🇩‌🇴‌🇼‌ 🇹‌🇴‌ 🇮‌🇳‌🇸‌🇹‌🇦‌🇱‌🇱‌ 🇹‌🇭‌🇪‌ 🇵‌🇴‌🇼‌🇪‌🇷‌🇸‌🇭‌🇪‌🇱‌🇱‌ 🇵‌🇷‌🇴‌🇫‌🇮‌🇱‌🇪‌:
 
-```
-irm "https://github.com/ChrisTitusTech/powershell-profile/raw/main/setup.ps1" | iex
-```
+    -------------------------------------------------------------------------------------------------------
+    irm "https://github.com/Bibhuti1221Bhushan/Windows_11_Setup/Functions/P-Shell/raw/main/Setup.PS1" | iex
+    -------------------------------------------------------------------------------------------------------
 
-## 🛠️ Fix the Missing Font
+🛠️ 𝙵𝙸𝚇 𝚃𝙷𝙴 𝙼𝙸𝚂𝚂𝙸𝙽𝙶 : 𝙵𝙾𝙽𝚃
 
-After running the script, you'll find a downloaded `cove.zip` file in the folder you executed the script from. Follow these steps to install the required nerd fonts:
+🇦‌🇫‌🇹‌🇪‌🇷‌ 🇷‌🇺‌🇳‌🇳‌🇮‌🇳‌🇬‌ 🇹‌🇭‌🇪‌ 🇸‌🇨‌🇷‌🇮‌🇵‌🇹‌, 🇾‌🇴‌🇺‌'🇱‌🇱‌ 🇫‌🇮‌🇳‌🇩‌ 🇦‌ 🇩‌🇴‌🇼‌🇳‌🇱‌🇴‌🇦‌🇩‌🇪‌🇩‌ `🇨‌🇴‌🇻‌🇪‌.🇿‌🇮‌🇵‌` 🇫‌🇮‌🇱‌🇪‌ 🇮‌🇳‌ 🇹‌🇭‌🇪‌ 🇫‌🇴‌🇱‌🇩‌🇪‌🇷‌ 🇾‌🇴‌🇺‌ 🇪‌🇽‌🇪‌🇨‌🇺‌🇹‌🇪‌🇩‌ 🇹‌🇭‌🇪‌ 🇸‌🇨‌🇷‌🇮‌🇵‌🇹‌. 🇫‌🇴‌🇱‌🇱‌🇴‌🇼‌ 🇹‌🇭‌🇪‌🇸‌🇪‌ 🇸‌🇹‌🇪‌🇵‌🇸‌ 🇹‌🇴‌ 🇮‌🇳‌🇸‌🇹‌🇦‌🇱‌🇱‌ 🇹‌🇭‌🇪‌ 🇷‌🇪‌🇶‌🇺‌🇮‌🇷‌🇪‌🇩‌ 🇳‌🇪‌🇷‌🇩‌ 🇫‌🇴‌🇳‌🇹‌🇸‌:
 
-1. Extract the `cove.zip` file.
-2. Locate and install the nerd fonts.
+1. 🇪‌🇽‌🇹‌🇷‌🇦‌🇨‌🇹‌ 🇹‌🇭‌🇪‌ `🇨‌🇴‌🇻‌🇪‌.🇿‌🇮‌🇵‌` 🇫‌🇮‌🇱‌🇪‌.
+2. 🇱‌🇴‌🇨‌🇦‌🇹‌🇪‌ 🇦‌🇳‌🇩‌ 🇮‌🇳‌🇸‌🇹‌🇦‌🇱‌🇱‌ 🇹‌🇭‌🇪‌ 🇳‌🇪‌🇷‌🇩‌ 🇫‌🇴‌🇳‌🇹‌🇸‌.
 
-Now, enjoy your enhanced and stylish PowerShell experience! 🚀
+🚀 🇪‌🇳‌🇯‌🇴‌🇾‌ 🇪‌🇳‌🇭‌🇦‌🇳‌🇨‌🇪‌🇩‌ 🇦‌🇳‌🇩‌ 🇸‌🇹‌🇾‌🇱‌🇮‌🇸‌🇭‌ 🇵‌🇴‌🇼‌🇪‌🇷‌🇸‌🇭‌🇪‌🇱‌🇱‌ 🇪‌🇽‌🇵‌🇪‌🇷‌🇮‌🇪‌🇳‌🇨‌🇪‌ 🚀
